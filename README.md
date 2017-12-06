@@ -25,4 +25,4 @@ You should see this:
 
 # License
 
-Vicinity Map is distributed under the MIT license.
+React Boilerplate is distributed under the MIT license.
